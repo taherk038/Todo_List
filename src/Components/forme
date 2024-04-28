@@ -1,14 +1,1 @@
- {/* {todo.map((item, index) => {
-        return (
-          <p key={index}>
-            {item}
-            <div className="action">
-              <input
-                type="checkbox"
-                
-              />
-              <button onClick={() => deleteTodo(index)}>Delete</button>
-            </div>
-          </p>
-        );
-      })} */}
+
